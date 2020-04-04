@@ -1,9 +1,9 @@
-#Empty LaraMix
+# Empty LaraMix
 
 This is an empty build for development on [Vue.js](https://github.com/vuejs/vue) using 
 the [LaravelMix](https://github.com/JeffreyWay/laravel-mix) constructor.
 
-##Install: 
+## Install: 
 
 1. Clone this repo:
     ```shell script
